@@ -1,2 +1,2 @@
-# test-repo-org-gh-pages
-Empty testing repository for gh-pages-bootstrap, owned by an organization, with gh-pages branch
+# test-repo-forked-gh-pages
+Empty testing repository for gh-pages-bootstrap, forked from somewhere else, with gh-pages branch
